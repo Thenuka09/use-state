@@ -1,7 +1,7 @@
 {
   "name": "usestate",
   "version": "0.1.0",
-  "homepage": "https://thenuks09.github.com/use-state",
+  "homepage": "https://thenuks09.github.io/use-state",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
